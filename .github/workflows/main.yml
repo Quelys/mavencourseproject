@@ -27,8 +27,6 @@ on:
     - 'releases/**-beta'
     tags:
     - v2.*
-    tags-ignore:
-    - v1.*
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
